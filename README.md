@@ -8,8 +8,10 @@ Open a terminal or command prompt.
 Navigate to the directory where the code is located.
 Run the password_generator.py file using Python.
 
+```bash
+    $->python password_generator.py
+```
 
-python password_generator.py
 
 
 Usage
